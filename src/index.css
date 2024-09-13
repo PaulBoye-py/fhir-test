@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.form-label {
+  @apply flex justify-start text-gray-700 text-sm font-bold mb-2;
+}
